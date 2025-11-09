@@ -1,5 +1,5 @@
 # habobin
-### my name is Valera 
+### my name is bibosina
 
 **I'm java script developer**
 ![my photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGbeT2KT8dSaYgvAKq7KG_Jszw5x4_6kngxw&s)
